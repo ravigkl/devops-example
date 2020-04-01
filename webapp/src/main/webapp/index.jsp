@@ -6,4 +6,5 @@
 <h2>Testing the integration and deployment with K8S</h2>
 <b>Git+Jenkins+Ansible+Docker Hub + Kubernetes </b>
 <h2>final testing</h2>
+<h2>Aure Fundamentals <a href="https://docs.microsoft.com/en-gb/learn/paths/azure-fundamentals/"> Azure Fundamentals</a></h2>
 
